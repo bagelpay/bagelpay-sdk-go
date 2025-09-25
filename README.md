@@ -5,7 +5,7 @@ Official Go SDK for the BagelPay payment platform. Easily integrate subscription
 ## 🔗 Related Links
 
 - 🌏 **BagelPay Website**: [https://bagelpay.io](https://bagelpay.io)
-- 🌏 **Developer Dashboard**: [https://bagelpay.io/dashboard](https://bagelpay.io/dashboard)
+- 🌏 **Developer Dashboard**: [https://app.bagelpay.io/dashboard](https://app.bagelpay.io/dashboard)
 - 📖 **Official Documentation**: [https://bagelpay.gitbook.io/docs](https://bagelpay.gitbook.io/docs)
 - 📖 **API Documentation**: [https://bagelpay.gitbook.io/docs/apireference](https://bagelpay.gitbook.io/docs/apireference)
 - 📧 **Technical Support**: support@bagelpayment.com
