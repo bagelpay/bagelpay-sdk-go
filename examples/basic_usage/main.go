@@ -38,9 +38,6 @@ func main() {
 	// Get API key from environment variable
 	apiKey := os.Getenv("BAGELPAY_API_KEY")
 	if apiKey == "" {
-		apiKey = "bagel_test_C6D1E83B94204A00A6F8EFD2AF05B427"
-	}
-	if apiKey == "" {
 		log.Fatal("❌ BAGELPAY_API_KEY environment variable is required")
 	}
 
